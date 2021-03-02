@@ -25,7 +25,7 @@ class MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     var questions = [
       'this is the first question',
-      'this. is the second question'
+      'this is the second question'
     ];
 
     return MaterialApp(
